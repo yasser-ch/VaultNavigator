@@ -6,6 +6,9 @@ Application Android de démonstration de la navigation sécurisée entre composa
 
 ## 📱 Aperçu
 
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/7657f51e-94d1-4d90-9704-4e1e1578e4ed" />
+
+
 | Écran | Description |
 |---|---|
 | Accueil | Hub central — navigation + composants |
